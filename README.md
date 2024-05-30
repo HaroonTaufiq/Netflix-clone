@@ -3,9 +3,9 @@
 
 This is a simple React application that replicates the front page of Netflix. It fetches movie data from The Movie Database (TMDB).
 
-## Demo Video
+## Live Demo of Website
 
-[Watch the demo video here](./vid.mp4)
+[Netflix Website](https://main--netflix-clone-tmdb.netlify.app/)
 
 ## Features
 
